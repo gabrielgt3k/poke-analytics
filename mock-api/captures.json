@@ -1,0 +1,507 @@
+[
+    {
+        "pokemonId": 444,
+        "type": "dragon",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 353,
+        "type": "ghost",
+        "region": "hoenn"
+    },
+    {
+        "pokemonId": 64,
+        "type": "psychic",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 597,
+        "type": "grass",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 37,
+        "type": "fire",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 161,
+        "type": "normal",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 265,
+        "type": "bug",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 399,
+        "type": "normal",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 457,
+        "type": "water",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 430,
+        "type": "dark",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 590,
+        "type": "grass",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 450,
+        "type": "ground",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 560,
+        "type": "dark",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 227,
+        "type": "steel",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 36,
+        "type": "fairy",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 634,
+        "type": "dark",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 161,
+        "type": "normal",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 297,
+        "type": "fighting",
+        "region": "hoenn"
+    },
+    {
+        "pokemonId": 709,
+        "type": "ghost",
+        "region": "kalos"
+    },
+    {
+        "pokemonId": 702,
+        "type": "electric",
+        "region": "kalos"
+    },
+    {
+        "pokemonId": 218,
+        "type": "fire",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 133,
+        "type": "normal",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 573,
+        "type": "normal",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 219,
+        "type": "fire",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 349,
+        "type": "water",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 627,
+        "type": "normal",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 656,
+        "type": "water",
+        "region": "kalos"
+    },
+    {
+        "pokemonId": 43,
+        "type": "grass",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 258,
+        "type": "water",
+        "region": "hoenn"
+    },
+    {
+        "pokemonId": 147,
+        "type": "dragon",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 315,
+        "type": "grass",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 48,
+        "type": "bug",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 331,
+        "type": "grass",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 458,
+        "type": "water",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 32,
+        "type": "poison",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 551,
+        "type": "ground",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 23,
+        "type": "poison",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 294,
+        "type": "normal",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 667,
+        "type": "fire",
+        "region": "kalos"
+    },
+    {
+        "pokemonId": 601,
+        "type": "steel",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 581,
+        "type": "water",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 175,
+        "type": "fairy",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 41,
+        "type": "poison",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 194,
+        "type": "water",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 473,
+        "type": "ice",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 339,
+        "type": "water",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 399,
+        "type": "normal",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 539,
+        "type": "fighting",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 449,
+        "type": "ground",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 606,
+        "type": "psychic",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 533,
+        "type": "fighting",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 591,
+        "type": "grass",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 284,
+        "type": "bug",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 532,
+        "type": "fighting",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 13,
+        "type": "bug",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 595,
+        "type": "bug",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 605,
+        "type": "psychic",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 579,
+        "type": "psychic",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 42,
+        "type": "poison",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 307,
+        "type": "fighting",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 304,
+        "type": "steel",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 14,
+        "type": "bug",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 661,
+        "type": "normal",
+        "region": "kalos"
+    },
+    {
+        "pokemonId": 531,
+        "type": "normal",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 441,
+        "type": "normal",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 556,
+        "type": "grass",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 551,
+        "type": "ground",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 450,
+        "type": "ground",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 109,
+        "type": "poison",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 400,
+        "type": "normal",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 525,
+        "type": "rock",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 380,
+        "type": "dragon",
+        "region": "hoenn"
+    },
+    {
+        "pokemonId": 674,
+        "type": "fighting",
+        "region": "kalos"
+    },
+    {
+        "pokemonId": 628,
+        "type": "normal",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 74,
+        "type": "rock",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 177,
+        "type": "psychic",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 88,
+        "type": "poison",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 124,
+        "type": "ice",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 186,
+        "type": "water",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 262,
+        "type": "dark",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 614,
+        "type": "ice",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 94,
+        "type": "ghost",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 179,
+        "type": "electric",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 64,
+        "type": "psychic",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 518,
+        "type": "psychic",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 73,
+        "type": "water",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 321,
+        "type": "water",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 523,
+        "type": "electric",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 239,
+        "type": "electric",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 634,
+        "type": "dark",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 104,
+        "type": "ground",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 557,
+        "type": "bug",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 1,
+        "type": "grass",
+        "region": "kanto"
+    },
+    {
+        "pokemonId": 523,
+        "type": "electric",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 79,
+        "type": "water",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 559,
+        "type": "dark",
+        "region": "unova"
+    },
+    {
+        "pokemonId": 325,
+        "type": "psychic",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 166,
+        "type": "bug",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 263,
+        "type": "normal",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 239,
+        "type": "electric",
+        "region": "sinnoh"
+    },
+    {
+        "pokemonId": 437,
+        "type": "steel",
+        "region": "sinnoh"
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "oobj-frontend-test",
+  "version": "1.0.0",
+  "description": "Teste para vaga de desenvolvedor front-end",
+  "main": "index.js",
+  "author": "Ícaro Aguiar Perez <icaro.aguiar@oobj.com.br>",
+  "license": "GNU GPLv3",
+  "scripts": {
+    "mock-api": "json-server index.js"
+  },
+  "devDependencies": {
+    "faker": "^5.1.0",
+    "json-server": "^0.16.3",
+    "axios": "^0.21.1"
+  }
+}
