@@ -1,5 +1,9 @@
 {
-  "name": "pokedex",
+  "name": "poke-analytics",
+  "author": {
+    "name": "Gabriel Thiago de Oliveira",
+    "email": "gabrieum99@gmail.com"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
