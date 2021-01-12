@@ -6,7 +6,7 @@
   "author": "Ícaro Aguiar Perez <icaro.aguiar@oobj.com.br>",
   "license": "GNU GPLv3",
   "scripts": {
-    "mock-api": "json-server index.js"
+    "mock-api": "json-server index.js --port 3001 --delay 3000"
   },
   "devDependencies": {
     "faker": "^5.1.0",

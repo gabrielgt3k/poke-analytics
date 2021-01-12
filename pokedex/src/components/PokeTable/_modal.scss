@@ -1,0 +1,19 @@
+.modal__photo-container {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .modal__photo {
+        border: 2px solid #e6e6e6;
+        border-radius: 4px;
+        height: 160px;
+        width: 160px;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.19);
+    }
+}
+
+.data-container {
+    display: flex;
+    flex-direction: column;
+}
